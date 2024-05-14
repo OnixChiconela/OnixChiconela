@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @JoseChiconela (Onix!)
-- 👀 I’m interested in software development, with focus on backend and mobile
-- 🌱 I’m currently, I'm specializing in mobile development.
-- 💞️ I’m looking to collaborate on with people who are interested in the field of techonolgy
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Hi, I’m @JoseChiconela (Onix!)
+  
+-  I’m a software developer with a strong focus on backend and mobile development. Currently, I'm honing my skills in mobile development, particulary using tools like React Native. However, I'am also expanding my expertise beyond this niche. In terms of my background, I have a solid doundation in languages like JavaScript and TypeScript, as well as experience with Java
 
-<!---
-OnixChiconela/OnixChiconela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Journey in the tech world has predominatly revolved arount JavaScript, allowing me to specialize in its associated tools such as Nest.js, Next.js, React Native, Node.js, Express, among others
+
+Now, I'm driven to explore the vast landscape of technology to continuously enhance my skills and contribute positivily to the field. I'm passionate about leveraging technology to create impactful soluctions that benefit others.
